@@ -2,6 +2,7 @@
 schwab_token.json
 ~$*.xlsx
 captures/capture.log
+captures/verify.log
 *.pyc
 __pycache__/
 .venv/
