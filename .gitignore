@@ -1,0 +1,6 @@
+.env
+schwab_token.json
+~$*.xlsx
+*.pyc
+__pycache__/
+.venv/
